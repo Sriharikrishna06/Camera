@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "124349409082",
+    "firebase_url": "https://camera-64745.firebaseio.com",
+    "project_id": "camera-64745",
+    "storage_bucket": "camera-64745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124349409082:android:be677afab150eea6",
+        "android_client_info": {
+          "package_name": "com.developer.srihari.camera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124349409082-s3pb0v0el1ee58j26chmol06dnq1kqje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.srihari.camera",
+            "certificate_hash": "6ff2cee6fb6cecbc4ba50d98eddd7ab2492bfc1e"
+          }
+        },
+        {
+          "client_id": "124349409082-vrg7e6vv5u6vl57kfkcgt3njo4e4l6mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBypzC4wwc0-ODSaZ9sJ3MQMP3nUM-CNTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124349409082-vrg7e6vv5u6vl57kfkcgt3njo4e4l6mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
